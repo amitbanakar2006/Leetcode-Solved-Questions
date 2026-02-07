@@ -36,4 +36,16 @@
 | ------- |
 | [0141-linked-list-cycle](https://github.com/amitbanakar2006/Leetcode-Solved-Questions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/amitbanakar2006/Leetcode-Solved-Questions/tree/master/0142-linked-list-cycle-ii) |
+## Tree
+|  |
+| ------- |
+| [0559-maximum-depth-of-n-ary-tree](https://github.com/amitbanakar2006/Leetcode-Solved-Questions/tree/master/0559-maximum-depth-of-n-ary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0559-maximum-depth-of-n-ary-tree](https://github.com/amitbanakar2006/Leetcode-Solved-Questions/tree/master/0559-maximum-depth-of-n-ary-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0559-maximum-depth-of-n-ary-tree](https://github.com/amitbanakar2006/Leetcode-Solved-Questions/tree/master/0559-maximum-depth-of-n-ary-tree) |
 <!---LeetCode Topics End-->
