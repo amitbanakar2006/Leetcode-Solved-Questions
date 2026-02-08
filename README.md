@@ -39,19 +39,23 @@
 ## Tree
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/amitbanakar2006/Leetcode-Solved-Questions/tree/master/0101-symmetric-tree) |
 | [0110-balanced-binary-tree](https://github.com/amitbanakar2006/Leetcode-Solved-Questions/tree/master/0110-balanced-binary-tree) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/amitbanakar2006/Leetcode-Solved-Questions/tree/master/0559-maximum-depth-of-n-ary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/amitbanakar2006/Leetcode-Solved-Questions/tree/master/0101-symmetric-tree) |
 | [0110-balanced-binary-tree](https://github.com/amitbanakar2006/Leetcode-Solved-Questions/tree/master/0110-balanced-binary-tree) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/amitbanakar2006/Leetcode-Solved-Questions/tree/master/0559-maximum-depth-of-n-ary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/amitbanakar2006/Leetcode-Solved-Questions/tree/master/0101-symmetric-tree) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/amitbanakar2006/Leetcode-Solved-Questions/tree/master/0559-maximum-depth-of-n-ary-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/amitbanakar2006/Leetcode-Solved-Questions/tree/master/0101-symmetric-tree) |
 | [0110-balanced-binary-tree](https://github.com/amitbanakar2006/Leetcode-Solved-Questions/tree/master/0110-balanced-binary-tree) |
 <!---LeetCode Topics End-->
