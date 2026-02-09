@@ -45,6 +45,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/amitbanakar2006/Leetcode-Solved-Questions/tree/master/0543-diameter-of-binary-tree) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/amitbanakar2006/Leetcode-Solved-Questions/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/amitbanakar2006/Leetcode-Solved-Questions/tree/master/0572-subtree-of-another-tree) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/amitbanakar2006/Leetcode-Solved-Questions/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -54,12 +55,14 @@
 | [0543-diameter-of-binary-tree](https://github.com/amitbanakar2006/Leetcode-Solved-Questions/tree/master/0543-diameter-of-binary-tree) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/amitbanakar2006/Leetcode-Solved-Questions/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/amitbanakar2006/Leetcode-Solved-Questions/tree/master/0572-subtree-of-another-tree) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/amitbanakar2006/Leetcode-Solved-Questions/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/amitbanakar2006/Leetcode-Solved-Questions/tree/master/0101-symmetric-tree) |
 | [0226-invert-binary-tree](https://github.com/amitbanakar2006/Leetcode-Solved-Questions/tree/master/0226-invert-binary-tree) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/amitbanakar2006/Leetcode-Solved-Questions/tree/master/0559-maximum-depth-of-n-ary-tree) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/amitbanakar2006/Leetcode-Solved-Questions/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -68,6 +71,7 @@
 | [0226-invert-binary-tree](https://github.com/amitbanakar2006/Leetcode-Solved-Questions/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/amitbanakar2006/Leetcode-Solved-Questions/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/amitbanakar2006/Leetcode-Solved-Questions/tree/master/0572-subtree-of-another-tree) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/amitbanakar2006/Leetcode-Solved-Questions/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## String Matching
 |  |
 | ------- |
