@@ -43,6 +43,7 @@
 | [0110-balanced-binary-tree](https://github.com/amitbanakar2006/Leetcode-Solved-Questions/tree/master/0110-balanced-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/amitbanakar2006/Leetcode-Solved-Questions/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/amitbanakar2006/Leetcode-Solved-Questions/tree/master/0226-invert-binary-tree) |
+| [0513-find-bottom-left-tree-value](https://github.com/amitbanakar2006/Leetcode-Solved-Questions/tree/master/0513-find-bottom-left-tree-value) |
 | [0543-diameter-of-binary-tree](https://github.com/amitbanakar2006/Leetcode-Solved-Questions/tree/master/0543-diameter-of-binary-tree) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/amitbanakar2006/Leetcode-Solved-Questions/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/amitbanakar2006/Leetcode-Solved-Questions/tree/master/0572-subtree-of-another-tree) |
@@ -54,6 +55,7 @@
 | [0110-balanced-binary-tree](https://github.com/amitbanakar2006/Leetcode-Solved-Questions/tree/master/0110-balanced-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/amitbanakar2006/Leetcode-Solved-Questions/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/amitbanakar2006/Leetcode-Solved-Questions/tree/master/0226-invert-binary-tree) |
+| [0513-find-bottom-left-tree-value](https://github.com/amitbanakar2006/Leetcode-Solved-Questions/tree/master/0513-find-bottom-left-tree-value) |
 | [0543-diameter-of-binary-tree](https://github.com/amitbanakar2006/Leetcode-Solved-Questions/tree/master/0543-diameter-of-binary-tree) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/amitbanakar2006/Leetcode-Solved-Questions/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/amitbanakar2006/Leetcode-Solved-Questions/tree/master/0572-subtree-of-another-tree) |
@@ -64,6 +66,7 @@
 | [0101-symmetric-tree](https://github.com/amitbanakar2006/Leetcode-Solved-Questions/tree/master/0101-symmetric-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/amitbanakar2006/Leetcode-Solved-Questions/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/amitbanakar2006/Leetcode-Solved-Questions/tree/master/0226-invert-binary-tree) |
+| [0513-find-bottom-left-tree-value](https://github.com/amitbanakar2006/Leetcode-Solved-Questions/tree/master/0513-find-bottom-left-tree-value) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/amitbanakar2006/Leetcode-Solved-Questions/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/amitbanakar2006/Leetcode-Solved-Questions/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Binary Tree
@@ -73,6 +76,7 @@
 | [0110-balanced-binary-tree](https://github.com/amitbanakar2006/Leetcode-Solved-Questions/tree/master/0110-balanced-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/amitbanakar2006/Leetcode-Solved-Questions/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/amitbanakar2006/Leetcode-Solved-Questions/tree/master/0226-invert-binary-tree) |
+| [0513-find-bottom-left-tree-value](https://github.com/amitbanakar2006/Leetcode-Solved-Questions/tree/master/0513-find-bottom-left-tree-value) |
 | [0543-diameter-of-binary-tree](https://github.com/amitbanakar2006/Leetcode-Solved-Questions/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/amitbanakar2006/Leetcode-Solved-Questions/tree/master/0572-subtree-of-another-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/amitbanakar2006/Leetcode-Solved-Questions/tree/master/1448-count-good-nodes-in-binary-tree) |
