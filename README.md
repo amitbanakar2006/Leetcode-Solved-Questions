@@ -31,11 +31,13 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/amitbanakar2006/Leetcode-Solved-Questions/tree/master/0002-add-two-numbers) |
+| [2965-find-missing-and-repeated-values](https://github.com/amitbanakar2006/Leetcode-Solved-Questions/tree/master/2965-find-missing-and-repeated-values) |
 ## Hash Table
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/amitbanakar2006/Leetcode-Solved-Questions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/amitbanakar2006/Leetcode-Solved-Questions/tree/master/0142-linked-list-cycle-ii) |
+| [2965-find-missing-and-repeated-values](https://github.com/amitbanakar2006/Leetcode-Solved-Questions/tree/master/2965-find-missing-and-repeated-values) |
 ## Tree
 |  |
 | ------- |
@@ -88,4 +90,12 @@
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/amitbanakar2006/Leetcode-Solved-Questions/tree/master/0572-subtree-of-another-tree) |
+## Array
+|  |
+| ------- |
+| [2965-find-missing-and-repeated-values](https://github.com/amitbanakar2006/Leetcode-Solved-Questions/tree/master/2965-find-missing-and-repeated-values) |
+## Matrix
+|  |
+| ------- |
+| [2965-find-missing-and-repeated-values](https://github.com/amitbanakar2006/Leetcode-Solved-Questions/tree/master/2965-find-missing-and-repeated-values) |
 <!---LeetCode Topics End-->
