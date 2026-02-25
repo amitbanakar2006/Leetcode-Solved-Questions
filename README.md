@@ -26,6 +26,7 @@
 | [0088-merge-sorted-array](https://github.com/amitbanakar2006/Leetcode-Solved-Questions/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/amitbanakar2006/Leetcode-Solved-Questions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/amitbanakar2006/Leetcode-Solved-Questions/tree/master/0142-linked-list-cycle-ii) |
+| [0287-find-the-duplicate-number](https://github.com/amitbanakar2006/Leetcode-Solved-Questions/tree/master/0287-find-the-duplicate-number) |
 | [0876-middle-of-the-linked-list](https://github.com/amitbanakar2006/Leetcode-Solved-Questions/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/amitbanakar2006/Leetcode-Solved-Questions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Math
@@ -96,6 +97,7 @@
 | ------- |
 | [0088-merge-sorted-array](https://github.com/amitbanakar2006/Leetcode-Solved-Questions/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/amitbanakar2006/Leetcode-Solved-Questions/tree/master/0136-single-number) |
+| [0287-find-the-duplicate-number](https://github.com/amitbanakar2006/Leetcode-Solved-Questions/tree/master/0287-find-the-duplicate-number) |
 | [2965-find-missing-and-repeated-values](https://github.com/amitbanakar2006/Leetcode-Solved-Questions/tree/master/2965-find-missing-and-repeated-values) |
 ## Matrix
 |  |
@@ -109,4 +111,9 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/amitbanakar2006/Leetcode-Solved-Questions/tree/master/0136-single-number) |
+| [0287-find-the-duplicate-number](https://github.com/amitbanakar2006/Leetcode-Solved-Questions/tree/master/0287-find-the-duplicate-number) |
+## Binary Search
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/amitbanakar2006/Leetcode-Solved-Questions/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
