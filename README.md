@@ -95,6 +95,7 @@
 ## Array
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/amitbanakar2006/Leetcode-Solved-Questions/tree/master/0053-maximum-subarray) |
 | [0088-merge-sorted-array](https://github.com/amitbanakar2006/Leetcode-Solved-Questions/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/amitbanakar2006/Leetcode-Solved-Questions/tree/master/0136-single-number) |
 | [0287-find-the-duplicate-number](https://github.com/amitbanakar2006/Leetcode-Solved-Questions/tree/master/0287-find-the-duplicate-number) |
@@ -116,4 +117,12 @@
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/amitbanakar2006/Leetcode-Solved-Questions/tree/master/0287-find-the-duplicate-number) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/amitbanakar2006/Leetcode-Solved-Questions/tree/master/0053-maximum-subarray) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/amitbanakar2006/Leetcode-Solved-Questions/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
