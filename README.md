@@ -40,6 +40,7 @@
 | [0001-two-sum](https://github.com/amitbanakar2006/Leetcode-Solved-Questions/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/amitbanakar2006/Leetcode-Solved-Questions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/amitbanakar2006/Leetcode-Solved-Questions/tree/master/0142-linked-list-cycle-ii) |
+| [0242-valid-anagram](https://github.com/amitbanakar2006/Leetcode-Solved-Questions/tree/master/0242-valid-anagram) |
 | [2965-find-missing-and-repeated-values](https://github.com/amitbanakar2006/Leetcode-Solved-Questions/tree/master/2965-find-missing-and-repeated-values) |
 ## Tree
 |  |
@@ -88,6 +89,7 @@
 ## String Matching
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/amitbanakar2006/Leetcode-Solved-Questions/tree/master/0242-valid-anagram) |
 | [0572-subtree-of-another-tree](https://github.com/amitbanakar2006/Leetcode-Solved-Questions/tree/master/0572-subtree-of-another-tree) |
 ## Hash Function
 |  |
@@ -110,6 +112,7 @@
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/amitbanakar2006/Leetcode-Solved-Questions/tree/master/0088-merge-sorted-array) |
+| [0242-valid-anagram](https://github.com/amitbanakar2006/Leetcode-Solved-Questions/tree/master/0242-valid-anagram) |
 ## Bit Manipulation
 |  |
 | ------- |
