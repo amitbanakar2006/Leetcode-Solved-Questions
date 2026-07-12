@@ -106,6 +106,7 @@
 | [0287-find-the-duplicate-number](https://github.com/amitbanakar2006/Leetcode-Solved-Questions/tree/master/0287-find-the-duplicate-number) |
 | [0485-max-consecutive-ones](https://github.com/amitbanakar2006/Leetcode-Solved-Questions/tree/master/0485-max-consecutive-ones) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/amitbanakar2006/Leetcode-Solved-Questions/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1920-build-array-from-permutation](https://github.com/amitbanakar2006/Leetcode-Solved-Questions/tree/master/1920-build-array-from-permutation) |
 | [2965-find-missing-and-repeated-values](https://github.com/amitbanakar2006/Leetcode-Solved-Questions/tree/master/2965-find-missing-and-repeated-values) |
 ## Matrix
 |  |
@@ -133,4 +134,8 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/amitbanakar2006/Leetcode-Solved-Questions/tree/master/0053-maximum-subarray) |
+## Simulation
+|  |
+| ------- |
+| [1920-build-array-from-permutation](https://github.com/amitbanakar2006/Leetcode-Solved-Questions/tree/master/1920-build-array-from-permutation) |
 <!---LeetCode Topics End-->
