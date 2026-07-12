@@ -33,6 +33,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/amitbanakar2006/Leetcode-Solved-Questions/tree/master/0002-add-two-numbers) |
+| [0412-fizz-buzz](https://github.com/amitbanakar2006/Leetcode-Solved-Questions/tree/master/0412-fizz-buzz) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/amitbanakar2006/Leetcode-Solved-Questions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [2965-find-missing-and-repeated-values](https://github.com/amitbanakar2006/Leetcode-Solved-Questions/tree/master/2965-find-missing-and-repeated-values) |
 ## Hash Table
@@ -91,6 +92,7 @@
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/amitbanakar2006/Leetcode-Solved-Questions/tree/master/0242-valid-anagram) |
+| [0412-fizz-buzz](https://github.com/amitbanakar2006/Leetcode-Solved-Questions/tree/master/0412-fizz-buzz) |
 | [0572-subtree-of-another-tree](https://github.com/amitbanakar2006/Leetcode-Solved-Questions/tree/master/0572-subtree-of-another-tree) |
 ## Hash Function
 |  |
@@ -137,5 +139,6 @@
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/amitbanakar2006/Leetcode-Solved-Questions/tree/master/0412-fizz-buzz) |
 | [1920-build-array-from-permutation](https://github.com/amitbanakar2006/Leetcode-Solved-Questions/tree/master/1920-build-array-from-permutation) |
 <!---LeetCode Topics End-->
