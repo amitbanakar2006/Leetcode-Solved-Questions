@@ -108,6 +108,7 @@
 | [0287-find-the-duplicate-number](https://github.com/amitbanakar2006/Leetcode-Solved-Questions/tree/master/0287-find-the-duplicate-number) |
 | [0485-max-consecutive-ones](https://github.com/amitbanakar2006/Leetcode-Solved-Questions/tree/master/0485-max-consecutive-ones) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/amitbanakar2006/Leetcode-Solved-Questions/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1480-running-sum-of-1d-array](https://github.com/amitbanakar2006/Leetcode-Solved-Questions/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/amitbanakar2006/Leetcode-Solved-Questions/tree/master/1672-richest-customer-wealth) |
 | [1920-build-array-from-permutation](https://github.com/amitbanakar2006/Leetcode-Solved-Questions/tree/master/1920-build-array-from-permutation) |
 | [2965-find-missing-and-repeated-values](https://github.com/amitbanakar2006/Leetcode-Solved-Questions/tree/master/2965-find-missing-and-repeated-values) |
@@ -143,4 +144,8 @@
 | ------- |
 | [0412-fizz-buzz](https://github.com/amitbanakar2006/Leetcode-Solved-Questions/tree/master/0412-fizz-buzz) |
 | [1920-build-array-from-permutation](https://github.com/amitbanakar2006/Leetcode-Solved-Questions/tree/master/1920-build-array-from-permutation) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/amitbanakar2006/Leetcode-Solved-Questions/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
