@@ -43,6 +43,7 @@
 | [0141-linked-list-cycle](https://github.com/amitbanakar2006/Leetcode-Solved-Questions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/amitbanakar2006/Leetcode-Solved-Questions/tree/master/0142-linked-list-cycle-ii) |
 | [0242-valid-anagram](https://github.com/amitbanakar2006/Leetcode-Solved-Questions/tree/master/0242-valid-anagram) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/amitbanakar2006/Leetcode-Solved-Questions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [2965-find-missing-and-repeated-values](https://github.com/amitbanakar2006/Leetcode-Solved-Questions/tree/master/2965-find-missing-and-repeated-values) |
 ## Tree
 |  |
@@ -106,6 +107,7 @@
 | [0088-merge-sorted-array](https://github.com/amitbanakar2006/Leetcode-Solved-Questions/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/amitbanakar2006/Leetcode-Solved-Questions/tree/master/0136-single-number) |
 | [0287-find-the-duplicate-number](https://github.com/amitbanakar2006/Leetcode-Solved-Questions/tree/master/0287-find-the-duplicate-number) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/amitbanakar2006/Leetcode-Solved-Questions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/amitbanakar2006/Leetcode-Solved-Questions/tree/master/0485-max-consecutive-ones) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/amitbanakar2006/Leetcode-Solved-Questions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1480-running-sum-of-1d-array](https://github.com/amitbanakar2006/Leetcode-Solved-Questions/tree/master/1480-running-sum-of-1d-array) |
